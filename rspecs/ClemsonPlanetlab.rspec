@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<RSpec type="SFA">  
+    <network name="plc">    
+        <site id="s1">      
+            <name>        MyPLC      </name>      
+            <node id="n1">        
+                <hostname>          planetlab4.clemson.edu        </hostname>        
+            <sliver></sliver>
+				</node>
+            <node id="n2">        
+                <hostname>          planetlab5.clemson.edu        </hostname>        
+            <sliver></sliver>
+            </node>      
+        </site>    
+    </network>  
+</RSpec>

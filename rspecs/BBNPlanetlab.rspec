@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<RSpec type="SFA">
+  <network name="plc.gpolab">
+    <site id="s1">
+      <name>myplc.gpolab.bbn.com</name>
+      <node id="n1">
+        <hostname>navis.gpolab.bbn.com</hostname>
+        <sliver></sliver>
+      </node>
+      <node id="n2">
+        <hostname>bain.gpolab.bbn.com</hostname>
+        <sliver/>
+      </node>
+    </site>
+  </network>
+</RSpec>
